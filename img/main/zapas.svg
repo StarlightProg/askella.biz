@@ -1,0 +1,17 @@
+<svg width="273" height="424" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <linearGradient y2="1" x2="0.5" y1="0" x1="0.87428" id="paint0_linear_435_2">
+   <stop stop-color="#7ED6FC"/>
+   <stop stop-color="#81E1FF" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="0.96943" x2="0.75913" y1="0.03493" x1="0.05839" id="paint1_linear_435_2">
+   <stop stop-color="#77DBFB"/>
+   <stop stop-color="#60C9F6" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" fill="url(#paint0_linear_435_2)" d="m162.218,423.054l-161.50645,-62.756l145.81745,-359.92886l15.689,422.68486z"/>
+  <path id="svg_2" fill="url(#paint1_linear_435_2)" d="m272.04089,352.914l-110.747,70.14l-15.689,-422.68486l126.436,352.54486z"/>
+ </g>
+</svg>

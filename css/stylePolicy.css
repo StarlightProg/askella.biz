@@ -1,0 +1,113 @@
+.header, a .menuTop{
+  color: black;
+}
+
+.header{
+  display: none;
+}
+
+.menuTop .a__hover{
+  color: black;
+}
+
+.header__p2{
+  color: white;
+}
+
+.main__p{
+  margin-top: 40px;
+  margin-bottom: 
+}
+
+.menuTop{
+  opacity: 1;
+}
+
+.menuTop .a__hover:after {
+  background-color:black;
+}
+
+.structImg{
+  margin-top: 45px;
+}
+
+.mar{
+  margin-top: 190px;
+  margin-bottom: 94px;
+}
+
+.main__title{
+  margin-top: 11px;
+  font-weight: bold;
+  font-size: 54px;
+}
+
+.p__main{
+  font-weight: bold;
+  color:#2573CF;
+}
+
+.div__about__text3{
+  margin-top: 36px;
+  margin-bottom: 65px;
+  display: flex;
+  align-items: center;
+    justify-content: center;
+  width: 203px;
+  height: 59px;
+  background: #1288F5;
+    color: white;
+}
+
+.about__text3{
+  font-weight: 500;
+  font-size: 13px;
+}
+
+.main__p{
+  line-height: 22px;
+  margin-top: 40px;
+}
+
+.teams{
+  display: flex;
+  flex-direction: column;
+  margin-top: 47px;
+}
+
+.companyDiv{
+  margin-top: 70px;
+}
+
+@media (min-width: 960px) and (max-width: 1290px){
+  .structImg{
+    content: url("../img/companyStruct1290.png");
+  }
+}
+
+@media (min-width: 690px) and (max-width: 960px){
+  .structImg{
+    content: url("../img/companyStruct960.png");
+  }
+}
+
+@media (min-width: 480px) and (max-width: 690px){
+  .structImg{
+    content: url("../img/companyStruct640.png");
+  }
+}
+
+@media (min-width: 320px) and (max-width: 480px){
+  .structImg{
+    content: url("../img/companyStruct480.png");
+  }
+}
+
+@media (min-width: 320px) and (max-width: 600px){
+  .main__title{
+    font-size: 27px;
+  }
+  .main__p{
+    margin-top: 20px;
+  }
+}

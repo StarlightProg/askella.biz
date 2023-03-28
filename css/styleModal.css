@@ -1,0 +1,10 @@
+
+
+@media (min-width: 960px) and (max-width: 1290px){
+	.main__video{
+		display: none;
+	}
+	.bg__video{
+		height: 100%;
+	}
+}
