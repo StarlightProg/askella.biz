@@ -175,16 +175,22 @@
 					</div>
 				</div>
 				<a name="fifth__block">
+					<div class="control_dop" style="background: #01336E;">
 				<div  class="fifth__block">
-					<div class="container">
-						<div class="flex__column">
-							<div   class="fifth__div">
-								<p class="uprav__p" >Корпоративное управление</p>
-								<a class="modalOpener" href="#companies__structures"><p class="all__actives__pp">Структура компаний</p></a>
-								<p class="fifth__block__p"> Корпоративное управление ЕПК АСКЕЛЛА построено на континентальной модели взаимодействия и представляет собой двухуровневую работу по координации и контролю деятельности менеджмента компаний, благодаря наличию в управленческих органах наблюдательного совета и совета директоров. </p>
+					
+
+					
+						<div class="container">
+							<div class="flex__column">
+								<div   class="fifth__div">
+									<p class="uprav__p" >Корпоративное управление</p>
+									<a class="modalOpener" href="#companies__structures"><p class="all__actives__pp">Структура компаний</p></a>
+									<p class="fifth__block__p"> Корпоративное управление ЕПК АСКЕЛЛА построено на континентальной модели взаимодействия и представляет собой двухуровневую работу по координации и контролю деятельности менеджмента компаний, благодаря наличию в управленческих органах наблюдательного совета и совета директоров. </p>
+								</div>
 							</div>
 						</div>
-					</div>
+
+				</div>
 				</div>
 				</a>
 				<a name="sixth__block">

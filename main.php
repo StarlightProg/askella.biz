@@ -103,7 +103,7 @@
 								</div>
 								<div class="main__title">
 									<p class="titlep1">КОЛИЧЕСТВО <br>СОТРУДНИКОВ</p>
-									<p class="titlep2">500</p>
+									<p class="titlep2">5000</p>
 									<p class="titlep3">человек</p>
 								</div>
 								<div class="main__title">
@@ -121,7 +121,7 @@
 							<div class="about__company">
 								<p class="about__text1">О концерне</p>
 								<a class="modalOpener" href="companyStructure"><p  class="all__actives__p ">Структура компаний</p></a>	
-								<p class="about__text2">Один из крупнейших Международных Концернов, который развивается в пяти основных направлениях - логистика, строительство, аграрный бизнес, производство и инвестиции. Активы компании расположены в России, Казахстане, Узбекистане, Сингапуре, Турции и Китае.<br><br>Общее количество сотрудников более 500 человек. За время работы нами была создана сеть международных контактов на территории всего Евразийского Континента.</p>
+								<p class="about__text2">Один из крупнейших Международных Концернов, который развивается в пяти основных направлениях - логистика, строительство, аграрный бизнес, производство и инвестиции. Активы компании расположены в России, Казахстане, Узбекистане, Сингапуре, Турции и Китае.<br><br>Общее количество сотрудников более 5000 человек. За время работы нами была создана сеть международных контактов на территории всего Евразийского Континента.</p>
 								<a href="EpkAskella"><div class="butt div__about__text3"><p class="about__text3">УЗНАТЬ БОЛЬШЕ</p></div></a>
 							</div>
 							<div class="actives">
@@ -142,6 +142,20 @@
 												<p class="actives__stat__p">300 000</p>
 												<p class="actives__statText__p">Произведенных единиц продукции</p>
 											</div>
+										</a>
+									</div>
+									<div class="flex__column">
+										<a class="a__black" href="comps/npkMir">
+										<div class="activess">
+											<p class="actives__type__p">Логистика</p>
+											<p class="actives__title__p">GM</p>
+											<p class="actives__stat__p">100%</p>
+											<p class="actives__statText__p">Совокупная  доля владения</p>
+											<p class="actives__stat__p">1 млн тонн</p>
+											<p class="actives__statText__p">Перевезённых грузов</p>
+											<p class="actives__stat__p">> 1 млн кв. м </p>
+											<p class="actives__statText__p">Складская площадь</p>
+										</div>
 										</a>
 									</div>
 									<div class="flex__column">
@@ -205,7 +219,7 @@
 								<!-- <img src="img/main/triangles.svg"> -->
 						</div>
 					</div>
-					<img class="lineUnder" src="img/main/lineUnder.svg">
+					<img class="lineUnder" src="img/main/lineUnder.svg" style="width: 120%;">
 				</div>
 			</div>
 		</div>
@@ -230,7 +244,7 @@
 			  $('#js-carousel-2').owlCarousel({
 			  	responsive:{
 			  		1290:{
-			  			items:3
+			  			items:4
 			  		},
 			  		960:{
 			  			items:3

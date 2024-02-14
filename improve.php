@@ -62,51 +62,51 @@
 							</div>
 							<div class="grid__column__right">
 								<div class="grid__companies">
-									<a href="https://www.kazlogistics.kz/ru"><img src="img/improve/companies/1.png"></a>
-									<a href="https://railway.uz/ru/"><img src="img/improve/companies/2.png"></a>
-									<a href="https://fiata.org/"><img src="img/improve/companies/3.png"></a>
-									<a href="https://uic.org/"><img src="img/improve/companies/4.png"></a>
-									<a href="https://ktzh-gp.kz/ru/index.php"><img src="img/improve/companies/5.png"></a>
-									<a href="https://smdg.org/"><img src="img/improve/companies/6.png"></a>
-									<a href="https://cargo.rzd.ru/"><img src="img/improve/companies/7.png"></a>
-									<a href="https://diritc.ru/"><img src="img/improve/companies/8.png"></a>
-									<a href="https://www.utlc.com/"><img src="img/improve/companies/9.png"></a>
-									<a href="https://rspp.ru/"><img src="img/improve/companies/10.png"></a>
+									<a href="https://www.kazlogistics.kz/ru" target="_blank"><img src="img/improve/companies/1.png"></a>
+									<a href="https://railway.uz/ru/" target="_blank"><img src="img/improve/companies/2.png"></a>
+									<a href="https://fiata.org/" target="_blank"><img src="img/improve/companies/3.png"></a>
+									<a href="https://uic.org/" target="_blank"><img src="img/improve/companies/4.png"></a>
+									<a href="https://ktzh-gp.kz/ru/index.php" target="_blank"><img src="img/improve/companies/5.png"></a>
+									<a href="https://smdg.org/" target="_blank"><img src="img/improve/companies/6.png"></a>
+									<a href="https://cargo.rzd.ru/" target="_blank"><img src="img/improve/companies/7.png"></a>
+									<a href="https://diritc.ru/" target="_blank"><img src="img/improve/companies/8.png"></a>
+									<a href="https://www.utlc.com/" target="_blank"><img src="img/improve/companies/9.png"></a>
+									<a href="https://rspp.ru/" target="_blank"><img src="img/improve/companies/10.png"></a>
 								</div>
 								<div class="grid__companies">
-									<a href="https://azkz.kz/about/history/"><img src="img/improve/companies/11.png"></a>
-									<a href="https://infars.ru/vendors/assotsiatsiya-stroiteley-rossii-asr/"><img src="img/improve/companies/12.png"></a>
-									<a href="https://azuz.uz/ru/"><img src="img/improve/companies/13.png"></a>
-									<a href="https://sros.spb.ru/"><img src="img/improve/companies/14.png"></a>				
-								</div>
-
-								<div class="grid__companies">
-									<a href="https://grainunion.kz/"><img src="img/improve/companies/21.png"></a>
-									<a href="http://grun.ru/"><img src="img/improve/companies/22.png"></a>
-									<a href="http://www.rossahar.ru/"><img src="img/improve/companies/23.png"></a>
-									<a href="https://profood.kz/"><img src="img/improve/companies/24.png"></a>				
+									<a href="https://azkz.kz/about/history/" target="_blank"><img src="img/improve/companies/11.png"></a>
+									<a href="https://infars.ru/vendors/assotsiatsiya-stroiteley-rossii-asr/" target="_blank"><img src="img/improve/companies/12.png"></a>
+									<a href="https://azuz.uz/ru/" target="_blank"><img src="img/improve/companies/13.png"></a>
+									<a href="https://sros.spb.ru/" target="_blank"><img src="img/improve/companies/14.png"></a>				
 								</div>
 
 								<div class="grid__companies">
-									<a href="https://souzlegprom.ru/ru/o-soyuze.html"><img src="img/improve/companies/31.png"></a>
-									<a href="https://minpromtorg.gov.ru/"><img src="img/improve/companies/32.png"></a>
-									<a href="http://aplp.kz/"><img src="img/improve/companies/33.png"></a>
-									<a href="https://asiz.ru/"><img src="img/improve/companies/34.png"></a>	
-									<a href="http://alliancetextile.uz/"><img src="img/improve/companies/35.png"></a>
-									<a href="http://www.clii.com.cn/"><img src="img/improve/companies/36.png"></a>
-									<a href="https://yeniexpo.com/ru/istanbul-textile-and-raw-materials-exporters-association/"><img src="img/improve/companies/37.png"></a>				
+									<a href="https://grainunion.kz/" target="_blank"><img src="img/improve/companies/21.png"></a>
+									<a href="http://grun.ru/" target="_blank"><img src="img/improve/companies/22.png"></a>
+									<a href="http://www.rossahar.ru/" target="_blank"><img src="img/improve/companies/23.png"></a>
+									<a href="https://profood.kz/" target="_blank"><img src="img/improve/companies/24.png"></a>				
 								</div>
 
 								<div class="grid__companies">
-									<a href="https://ffin.kz/"><img src="img/improve/companies/41.png"></a>
-									<a href="https://www.vsemirnyjbank.org/ru/who-we-are/ibrd"><img src="img/improve/companies/42.png"></a>
-									<a href="https://brrb.by/"><img src="img/improve/companies/43.png"></a>
-									<a href="https://www.londonstockexchange.com/"><img src="img/improve/companies/44.png"></a>	
-									<a href="https://www.sgx.com/"><img src="img/improve/companies/45.png"></a>
-									<a href="https://www.tubitak.gov.tr/"><img src="img/improve/companies/46.png"></a>
-									<a href="https://www.exportcenter.ru/"><img src="img/improve/companies/47.png"></a>	
-									<a href="https://invest.gov.kz/ru/"><img src="img/improve/companies/48.png"></a>	
-									<a href="https://www.londonstockexchange.com/"><img src="img/improve/companies/49.png"></a>				
+									<a href="https://souzlegprom.ru/ru/o-soyuze.html" target="_blank"><img src="img/improve/companies/31.png"></a>
+									<a href="https://minpromtorg.gov.ru/" target="_blank"><img src="img/improve/companies/32.png"></a>
+									<a href="http://aplp.kz/" target="_blank"><img src="img/improve/companies/33.png"></a>
+									<a href="https://asiz.ru/" target="_blank"><img src="img/improve/companies/34.png"></a>	
+									<a href="http://alliancetextile.uz/" target="_blank"><img src="img/improve/companies/35.png"></a>
+									<a href="http://www.clii.com.cn/" target="_blank"><img src="img/improve/companies/36.png"></a>
+									<a href="https://yeniexpo.com/ru/istanbul-textile-and-raw-materials-exporters-association/" target="_blank"><img src="img/improve/companies/37.png"></a>				
+								</div>
+
+								<div class="grid__companies">
+									<a href="https://ffin.kz/" target="_blank"><img src="img/improve/companies/41.png"></a>
+									<a href="https://www.vsemirnyjbank.org/ru/who-we-are/ibrd" target="_blank"><img src="img/improve/companies/42.png"></a>
+									<a href="https://brrb.by/" target="_blank"><img src="img/improve/companies/43.png"></a>
+									<a href="https://www.londonstockexchange.com/" target="_blank"><img src="img/improve/companies/44.png"></a>	
+									<a href="https://www.sgx.com/" target="_blank"><img src="img/improve/companies/45.png"></a>
+									<a href="https://www.tubitak.gov.tr/" target="_blank"><img src="img/improve/companies/46.png"></a>
+									<a href="https://www.exportcenter.ru/" target="_blank"><img src="img/improve/companies/47.png"></a>	
+									<a href="https://invest.gov.kz/ru/" target="_blank"><img src="img/improve/companies/48.png"></a>	
+									<a href="https://www.londonstockexchange.com/" target="_blank"><img src="img/improve/companies/49.png"></a>				
 								</div>
 							</div>
 						</div>

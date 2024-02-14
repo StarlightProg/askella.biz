@@ -15,14 +15,14 @@
 </head>
 <body>
 	<?php
-			require  dirname(__DIR__). DIRECTORY_SEPARATOR . 'header.php';
+			require  __DIR__. DIRECTORY_SEPARATOR . 'header.php';
 		?>
 
 		<div class="wrapper">
 			<div class="content">
 				<div class="main">
 					<div class="videoDiv">
-						<div class="videoBg" style="position: absolute;width:100%;z-index: -3;background-color: #01336E;"></div>
+						<div class="videoBg" style="position: absolute;width:100%;z-index: -3;background-color: #01336E; width: 100%; object-fit: cover;"></div>
 						<img src="../img/main/linesVideoComp.png" class="lines__Video">
 						<video loop muted autoplay class="main__video" id="main__video" style="height: 765px;">
 								<source src="../videos/viz2.webm" type='video/webm; codecs="vp8, vorbis"'>
@@ -74,7 +74,7 @@
 						</div>						
 					</div>
 				</div>
-				<div class="third__block">
+				<div class="third__block" style="padding-bottom: 40px;">
 					<div class="container">
 						<div class="flex__column activity">
 								<!-- <p class="p__title">Деятельность</p> -->
@@ -255,7 +255,7 @@
 				</div>
 			</div>
 
-			<div class="fourth__block">
+			<div class="fourth__block" style="margin-top: 40px;">
 				<div class="container">
 					<p class="p__title">Новости и события</p>
 					<div class="news__div">
