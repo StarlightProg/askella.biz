@@ -16,7 +16,7 @@
 </head>
 <body>
 		<?php
-			require  dirname(dirname(__DIR__)). DIRECTORY_SEPARATOR . 'headerWhite.php';
+			require dirname(__DIR__). DIRECTORY_SEPARATOR . 'newsElements' . DIRECTORY_SEPARATOR . 'header.php';
 		?>
 
 		<div class="wrapper">
@@ -83,8 +83,8 @@
 			</div>
 		</div>
 
-<?php require dirname(dirname(__DIR__)). DIRECTORY_SEPARATOR . 'footer.php';  ?>
-<?php require dirname(dirname(__DIR__)). DIRECTORY_SEPARATOR . 'menuAndModal.php';  ?>
+<?php require dirname(__DIR__). DIRECTORY_SEPARATOR . 'newsElements' . DIRECTORY_SEPARATOR . 'footer.php';  ?>
+<?php require dirname(__DIR__). DIRECTORY_SEPARATOR . 'newsElements' . DIRECTORY_SEPARATOR . 'menuAndModal.php';  ?>
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script> 

@@ -20,17 +20,17 @@
 									<p class="footer__text"><a class="a__hover" href="comps/mirSumok">ТОО ТПК МИР СУМОК</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/askGlobalPort">ASK GLOBAL PORT LTD</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/eurasia">ТОО ЕВРАЗИЯ САХАР</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ASKELLA INVEST LTD</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/askellaInvest">ASKELLA INVEST LTD</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/askellaAgro">ТОО АСКЕЛЛА АГРО</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ТОО ШУБАР УГОЛЬ</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/shubarCoal">ТОО ШУБАР УГОЛЬ</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/NurkazProm">ТОО НУРКАЗПРОМ</a></p>
 								</div>
 								<div class="flex__column__second">
 									<p class="footer__text"><a class="a__hover" href="comps/severprom">ООО СЕВЕРПРОМ</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/asib">ТОО ASIB GROUP</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ТОО ПК МИР</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ТОО ASK</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ТОО АСК</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/pkMir">ТОО ПК МИР</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/ask">ТОО ASK</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/ack">ТОО АСК</a></p>
 									<!-- <p class="footer__text"><a class="a__hover" href="comps/askPteLtd">ASKELLA PTE LTD</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/askGlobalPort">ASK GLOBAL</a></p> -->
 									<!-- <p class="footer__text"><a class="a__hover" href="comps/gm">ООО GM</a></p>
@@ -84,15 +84,15 @@
 									<p class="footer__text"><a class="a__hover" href="comps/mirSumok">ТОО ТПК МИР СУМОК</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/askGlobalPort">ASK GLOBAL PORT LTD</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/eurasia">ТОО ЕВРАЗИЯ САХАР</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ASKELLA INVEST LTD</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/askellaInvest">ASKELLA INVEST LTD</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/askellaAgro">ТОО АСКЕЛЛА АГРО</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ТОО ШУБАР УГОЛЬ</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/shubarCoal">ТОО ШУБАР УГОЛЬ</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/NurkazProm">ТОО НУРКАЗПРОМ</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/severprom">ООО СЕВЕРПРОМ</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/asib">ТОО ASIB GROUP</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ТОО ПК МИР</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ТОО ASK</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ТОО АСК</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/pkMir">ТОО ПК МИР</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/ask">ТОО ASK</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/ack">ТОО АСК</a></p>
 								</div>
 							</div>
 						</div>
@@ -141,9 +141,9 @@
 									<p class="footer__text"><a class="a__hover" href="comps/mirSumok">ТОО ТПК МИР СУМОК</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/askGlobalPort">ASK GLOBAL PORT LTD</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/eurasia">ТОО ЕВРАЗИЯ САХАР</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ASKELLA INVEST LTD</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/askellaInvest">ASKELLA INVEST LTD</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/askellaAgro">ТОО АСКЕЛЛА АГРО</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ТОО ШУБАР УГОЛЬ</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/shubarCoal">ТОО ШУБАР УГОЛЬ</a></p>
 									<p class="footer__text" style="visibility: hidden;">.</p>
 									<p class="footer__text" style="visibility: hidden;">.</p>
 									<!-- <p class="footer__title"><a class="a__hover" href="/">Справочная служба</a></p>
@@ -154,9 +154,9 @@
 									<p class="footer__text"><a class="a__hover" href="comps/NurkazProm">ТОО НУРКАЗПРОМ</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/severprom">ООО СЕВЕРПРОМ</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/asib">ТОО ASIB GROUP</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ТОО ПК МИР</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ТОО ASK</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ТОО АСК</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/pkMir">ТОО ПК МИР</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/ask">ТОО ASK</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/ack">ТОО АСК</a></p>
 									<p class="footer__text" style="visibility: hidden;">.</p>
 									<!-- <p class="footer__hotline"><a class="a__hover" href="#hotline">Горячая линия</a></p> -->
 									<!-- <div style="position: relative;top: 115px;right:50px;">
@@ -234,15 +234,15 @@
 									<p class="footer__text"><a class="a__hover" href="comps/mirSumok">ТОО ТПК МИР СУМОК</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/askGlobalPort">ASK GLOBAL PORT LTD</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/eurasia">ТОО ЕВРАЗИЯ САХАР</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ASKELLA INVEST LTD</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/askellaInvest">ASKELLA INVEST LTD</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/askellaAgro">ТОО АСКЕЛЛА АГРО</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ТОО ШУБАР УГОЛЬ</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/shubarCoal">ТОО ШУБАР УГОЛЬ</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/NurkazProm">ТОО НУРКАЗПРОМ</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/severprom">ООО СЕВЕРПРОМ</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/asib">ТОО ASIB GROUP</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ТОО ПК МИР</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ТОО ASK</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ТОО АСК</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/pkMir">ТОО ПК МИР</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/ask">ТОО ASK</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/ack">ТОО АСК</a></p>
 									<p class="footer__text" style="visibility: hidden;">.</p>
 									<!-- <p class="footer__text" style="visibility: hidden;">.</p> -->
 									
@@ -271,15 +271,15 @@
 									<p class="footer__text"><a class="a__hover" href="comps/mirSumok">ТОО ТПК МИР СУМОК</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/askGlobalPort">ASK GLOBAL PORT LTD</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/eurasia">ТОО ЕВРАЗИЯ САХАР</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ASKELLA INVEST LTD</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/askellaInvest">ASKELLA INVEST LTD</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/askellaAgro">ТОО АСКЕЛЛА АГРО</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ТОО ШУБАР УГОЛЬ</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/shubarCoal">ТОО ШУБАР УГОЛЬ</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/NurkazProm">ТОО НУРКАЗПРОМ</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/severprom">ООО СЕВЕРПРОМ</a></p>
 									<p class="footer__text"><a class="a__hover" href="comps/asib">ТОО ASIB GROUP</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ТОО ПК МИР</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ТОО ASK</a></p>
-									<p class="footer__text"><a class="a__hover" href="comps/">ТОО АСК</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/pkMir">ТОО ПК МИР</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/ask">ТОО ASK</a></p>
+									<p class="footer__text"><a class="a__hover" href="comps/ack">ТОО АСК</a></p>
 									<p class="footer__text" style="visibility: hidden;">.</p>
 							<p class="footer__title"><a class="a__hover" href="improve">Устойчивое развитие</a></p>
 								<p class="footer__text"><a class="a__hover" href="improve#second__block">Ответственное инвестирование</a></p>

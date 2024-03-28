@@ -34,7 +34,7 @@
 					<div class="container">
 						<div class="main__column">
 							<div class="flex__column">
-								<p><a class="p__main" href="../main">Главная</a> |<a class="p__main" href="../companies"> Активы</a><span class="span__main" style="opacity: 0.6"> | Мир Сумок</span></p>
+								<p><a class="p__main" href="../main">Главная</a> |<a class="p__main" href="../companies"> Компании</a><span class="span__main" style="opacity: 0.6"> | Мир Сумок</span></p>
 								<p class="main__title">Мир Сумок</p>
 								<p class="main__text">Один из крупнейших Казахстанских производителей сумок, портфелей и рюкзаков.
 </p>
@@ -67,7 +67,7 @@
 						<div class="flex__column impStrat">
 							<div class="second__title__div">
 								<img src="../img/comps/mirSumok/strategyLogo.png">
-								<!-- <p class="p__title">Стратегия развития</p> -->
+								<p class="p__title">Стратегия развития</p>
 							</div>
 							<p class="p__text">Стратегия ТО ТПК «Мир Сумок» на рынке изготовления Швейных изделий направлена на увеличение количества и качества производимой продукции и её последующей  продажи на всей территории Казахстана и за границей  государства.<br><br>
 
@@ -228,8 +228,8 @@
 		</div>
 	</div>
 
-		<?php require dirname(__DIR__). DIRECTORY_SEPARATOR . 'footer.php';  ?>
-<?php require dirname(__DIR__). DIRECTORY_SEPARATOR . 'menuAndModal.php';  ?>
+		<?php require __DIR__ . DIRECTORY_SEPARATOR . 'footer.php';  ?>
+<?php require __DIR__ . DIRECTORY_SEPARATOR . 'menuAndModal.php';  ?>
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script> 

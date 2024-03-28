@@ -75,7 +75,7 @@
 										
 										<div class="company__description" id="asib__desc">
 											
-											<p class="description__title">АСИБ</p>
+											<p class="description__title">АСИБ GROUP</p>
 											<p class="mini__description__title">Год основания</p>
 											<p class="description__text">2011</p>
 											<p class="mini__description__title">Россия</p>
@@ -125,7 +125,7 @@
 										</div>
 										<div class="company__description" id="pteltd__desc">
 											
-											<p class="description__title">ASKELLA PTE.LTD</p>
+											<p class="description__title">ASKELLA INVEST</p>
 											<p class="mini__description__title">Год основания</p>
 											<p class="description__text">2009</p>
 											<div class="flex__row">
@@ -183,11 +183,11 @@
 								</div>
 								<div class="flex__row">
 									<div class="stat__div">
-										<p class="stat__number">6</p>
+										<p class="stat__number">8</p>
 										<p class="stat__text">СТРАН</p>
 									</div>
 									<div class="stat__div">
-										<p class="stat__number">11</p>
+										<p class="stat__number">74</p>
 										<p class="stat__text">КОМПАНИЙ</p>
 									</div>
 									<div class="stat__div">
@@ -205,11 +205,11 @@
 										<div class="div__about__text4" id="sumka">
 											<p class="f12">Mir sumok.ru</p>
 										</div>
-										<div class="div__about__text4" id="gruz">
+										<!-- <div class="div__about__text4" id="gruz">
 											<p class="f12">Современные технологии логистики</p>
-										</div>
+										</div> -->
 										<div class="div__about__text4" id="asib">
-											<p class="f12">АСИБ</p>
+											<p class="f12">АСИБ GROUP</p>
 										</div>
 										<div class="div__about__text4" id="askagro">
 											<p class="f12">ASKELLA AGRO</p>
@@ -232,17 +232,17 @@
 											<p class="f12">Severprom</p>
 										</div>
 										<div class="div__about__text4" id="pteltd">
-											<p class="f12">Askella pte.ltd</p>
+											<p class="f12">Askella Invest</p>
 										</div>
 										<div class="div__about__text4" id="npkmir">
 											<p class="f12">НПК МИР</p>
 										</div>
 										<div class="div__about__text4" id="askport">
-											<p class="f12">ASK FLOBAL PORT</p>
+											<p class="f12">ASK GLOBAL PORT</p>
 										</div>
-										<div class="div__about__text4" id="askconst">
+										<!-- <div class="div__about__text4" id="askconst">
 											<p class="f12">ASKELLA CONSTRUCTION</p>
-										</div>
+										</div> -->
 									</div>
 									
 								</div>
@@ -259,11 +259,11 @@
 							<div class="flex__row second__elem3">
 								<div class="second__chosen div__about__text4 all_chose">
 									<p class="f12">ВСЕ ОТРАСЛИ</p>
-									<p class="f12 f12__num">13</p>
+									<p class="f12 f12__num">14</p>
 								</div>
 								<div class="div__about__text4 prod_choose">
 									<p class="f12">Производство</p>
-									<p class="f12 f12__num">3</p>
+									<p class="f12 f12__num">6</p>
 								</div>
 								<div class="div__about__text4 agro_choose">
 									<p class="f12">Агробизнес</p>
@@ -271,7 +271,7 @@
 								</div>
 								<div class="div__about__text4 stroi_choose">
 									<p class="f12">Строительство</p>
-									<p class="f12 f12__num">2</p>
+									<p class="f12 f12__num">7</p>
 								</div>
 								<div class="div__about__text4 invest_choose">
 									<p class="f12">Инвестиции</p>
@@ -279,7 +279,7 @@
 								</div>
 								<div class="div__about__text4 log_choose">
 									<p class="f12">Логистика</p>
-									<p class="f12 f12__num">7</p>
+									<p class="f12 f12__num">5</p>
 								</div>
 							</div>
 							<select id = "selectComp"  class="second__elem4">
@@ -351,7 +351,7 @@
 									<p class="actives__statText__p">Ремонтных депо</p>
 								</div>
 								</a>
-								<a class="a__black prod" href="comps/askellaConst">								
+								<!-- <a class="a__black prod" href="comps/askellaConst">								
 								<div class="activess ">
 											<p class="actives__type__p">Производство</p>
 											<p class="actives__title__p">Askella Construction</p>
@@ -362,7 +362,7 @@
 											<p class="actives__stat__p">100+</p>
 											<p class="actives__statText__p">Численность персонала</p>
 								</div>
-								</a>
+								</a> -->
 								<a class="a__black stroi log" href="comps/severprom">									
 								<div class="activess ">
 									<p class="actives__type__p">СТРОИТЕЛЬСТВО и логистика</p>
@@ -390,7 +390,7 @@
 								<a class="a__black log" href="comps/asib">
 								<div class="activess ">
 									<p class="actives__type__p">ЛОГИСТИКА</p>
-									<p class="actives__title__p">Асиб</p>
+									<p class="actives__title__p">Асиб GROUP</p>
 									<p class="actives__stat__p">2021</p>
 									<p class="actives__statText__p">Год основания компании</p>
 									<p class="actives__stat__p">30+</p>
@@ -402,7 +402,7 @@
 								<a class="a__black invest" href="comps/askPteLtd">
 								<div class="activess ">
 									<p class="actives__type__p">Инвестиции</p>
-									<p class="actives__title__p">Askella PTE LTD</p>
+									<p class="actives__title__p">Askella Invest</p>
 									<p class="actives__stat__p">2009</p>
 									<p class="actives__statText__p">Год основания компании</p>
 									<p class="actives__stat__p">50 млн$</p>
@@ -425,7 +425,7 @@
 								</a>
 								
 
-								<a class="a__black log" href="comps/askGlobalPort">
+								<!-- <a class="a__black log" href="comps/askGlobalPort">
 								<div class="activess ">
 									<p class="actives__type__p">ИНВЕСТИЦИИ</p>
 									<div>
@@ -471,7 +471,7 @@
 									<p class="actives__stat__p">40+</p>
 									<p class="actives__statText__p">Разработанных моделей</p>
 								</div>
-								</a>
+								</a> -->
 
 								<a class="a__black log" href="comps/askGlobalPort">
 								<div class="activess ">

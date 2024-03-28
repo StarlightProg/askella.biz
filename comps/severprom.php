@@ -34,7 +34,7 @@
 					<div class="container">
 						<div class="main__column">
 							<div class="flex__column">
-								<p><a class="p__main" href="../main">Главная</a> |<a class="p__main" href="../companies"> Активы</a><span class="span__main" style="opacity: 0.6"> | Северпром</span></p>
+								<p><a class="p__main" href="../main">Главная</a> |<a class="p__main" href="../companies"> Компании</a><span class="span__main" style="opacity: 0.6"> | Северпром</span></p>
 								<p class="main__title">Северпром</p>
 								<p class="main__text">Компания расположена в Узбекистане (г. Ташкент), основным видом деятельности является — производство и реализация строительных материалов, организация транспортных услуг и представление интересов ЕПК АСКЕЛЛА на территории Узбекистана.</p>
 								<div class="grid__main">
@@ -66,7 +66,7 @@
 						<div class="flex__column impStrat">
 							<div class="second__title__div">
 								<img src="../img/comps/severprom/strategyLogo.png">
-								<!-- <p class="p__title">Стратегия развития</p> -->
+								<p class="p__title">Стратегия развития</p>
 							</div>
 							<p class="p__text">Увелечение количества изготовливаемой продукции, расширение рынков сбыта по территории всех стран СНГ. Предоставление собственного подвижного и арендованного состава под перевозку любых видов грузов жд транспортом  по всей сети железных дорог Казахстана, стран СНГ и Балтии. Также рассматрение и исолнение как можно большего количества коммерческих предложения по приёму вагонов в аренду и покупке подвижного состава.
 
@@ -144,7 +144,7 @@
 				</div>
 			</div>
 
-			<div class="fourth__block" style="margin-top: 40px;">
+			<div class="fourth__block" style="margin-top: 40px;  margin-bottom: 40px;">
 				<div class="container">
 					<p class="p__title">Новости и события</p>
 					<div class="news__div">
@@ -188,19 +188,19 @@
 				</div>
 			</div>
 
-			<div class="fifth__block">
+			<!-- <div class="fifth__block">
 				<div class="container">
 				<p class="p__title">Узнайте больше информации на сайте</p>
 				<a class="a__hover" style="color: white;" href="https://askholding.ru/press-centr/novosti-otrasli"> <p class="p__title2">Северпром</p></a>
 				</div>
 				<img class="lineUnder" src="../img/main/lineUnder.svg">
-			</div>
+			</div> -->
 
 		</div>
 	</div>
 
-		<?php require dirname(__DIR__). DIRECTORY_SEPARATOR . 'footer.php';  ?>
-<?php require dirname(__DIR__). DIRECTORY_SEPARATOR . 'menuAndModal.php';  ?>
+		<?php require __DIR__ . DIRECTORY_SEPARATOR . 'footer.php';  ?>
+<?php require __DIR__ . DIRECTORY_SEPARATOR . 'menuAndModal.php';  ?>
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script> 

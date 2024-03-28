@@ -34,7 +34,7 @@
 					<div class="container">
 						<div class="main__column">
 							<div class="flex__column">
-								<p><a class="p__main" href="../main">Главная</a> |<a class="p__main" href="../companies"> Активы</a><span class="span__main" style="opacity: 0.6"> | Askella pte.ltd</span></p>
+								<p><a class="p__main" href="../main">Главная</a> |<a class="p__main" href="../companies"> Компании</a><span class="span__main" style="opacity: 0.6"> | Askella pte.ltd</span></p>
 								<p class="main__title">Askella Pte.ltd</p>
 								<p class="main__text">Компания Askella Pte Ltd осуществляет коллективные инвестиции. Главными функциями  компании являются диверсификация инвестиций и управление инвестиционным портфелем, в который входят ценные бумаги разных эмитентов и другие виды фондовых инструментов.  Так же компания занимается логистическими услугами на рынке Юго-Восточной Азии и Китая и работает в портах Сингапура, Индии и Китая</p>
 								<div class="grid__main">
@@ -65,7 +65,7 @@
 						<div class="flex__column impStrat">
 							<div class="second__title__div">
 								<img src="../img/comps/askPteLtd/strategyLogo.png">
-								<!-- <p class="p__title">Стратегия развития</p> -->
+								<p class="p__title">Стратегия развития</p>
 							</div>
 							<p class="p__text">Долгосрочное увелечение коллективных инвестиций в компании  концерна. Рациональное перераспределение активов, ценных бумаг и прочих фондовых инстрментов для формирования целостного развития  имеющихся отраслей концерна и поиска новых.  Поддержка и улучшение логистических операций союзных компаний в странах СНГ и организация совместной деятельности на рынке Юго-Восточной Азии, Китая, Индии и Сингапура.</p>
 						</div>						
@@ -109,7 +109,7 @@
 				</div>
 			</div>
 
-			<div class="fourth__block" style="margin-top: 40px;">
+			<div class="fourth__block" style="margin-top: 40px;  margin-bottom: 40px;">
 				<div class="container">
 					<p class="p__title">Новости и события</p>
 					<div class="news__div">
@@ -154,19 +154,19 @@
 				</div>
 			</div>
 
-			<div class="fifth__block">
+			<!-- <div class="fifth__block">
 				<div class="container">
 				<p class="p__title">Узнайте больше информации на сайте</p>
 				<a class="a__hover" style="color: white;" href="https://askholding.ru/press-centr/novosti-otrasli"> <p class="p__title2">Askella pte.ltd</p></a>
 				</div>
 				<img class="lineUnder" src="../img/main/lineUnder.svg">
-			</div>
+			</div> -->
 
 		</div>
 	</div>
 
-		<?php require dirname(__DIR__). DIRECTORY_SEPARATOR . 'footer.php';  ?>
-<?php require dirname(__DIR__). DIRECTORY_SEPARATOR . 'menuAndModal.php';  ?>
+		<?php require __DIR__ . DIRECTORY_SEPARATOR . 'footer.php';  ?>
+<?php require __DIR__ . DIRECTORY_SEPARATOR . 'menuAndModal.php';  ?>
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script> 

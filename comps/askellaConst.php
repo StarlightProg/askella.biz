@@ -34,7 +34,7 @@
 					<div class="container">
 						<div class="main__column">
 							<div class="flex__column">
-								<p><a class="p__main" href="../main">Главная</a> |<a class="p__main" href="../companies"> Активы</a><span class="span__main" style="opacity: 0.6"> | ASKELLA CONSTRUCTION</span></p>
+								<p><a class="p__main" href="../main">Главная</a> |<a class="p__main" href="../companies"> Компании</a><span class="span__main" style="opacity: 0.6"> | ASKELLA CONSTRUCTION</span></p>
 								<p class="main__title">ASKELLA CONSTRUCTION</p>
 								<p class="main__text">Компания расположена в Казахстане, основной вид деятельности компании — производство и продажа строительных материалов, импорт/экспорт строительных материалов.</p>
 								<div class="grid__main">
@@ -65,8 +65,8 @@
 					<div class="container">
 						<div class="flex__column impStrat">
 							<div class="second__title__div">
-								<img src="../img/comps/askellaConst/strategyLogo.png">
-								<!-- <p class="p__title">Стратегия развития</p> -->
+								<img src="../img/comps/askellaConst/strategyLogo2.png">
+								<p class="p__title">Стратегия развития</p>
 							</div>
 							<p class="p__text">Развитие и увелечение кол-во количества и ассортимента производимых строительных материалов и смесей под своей торговой маркой. Сотрудничество с крупными строительными компаниями СНГ. Постоянный рост и повышение  квалификации сотрудников. Регулярное внедрение последних технологий и работа исключительно с современными материалами.
 
@@ -261,7 +261,7 @@
 					<div class="news__div">
 						
 						<div class="news">
-							<a href="askellaConstNews/news1" style="color: black;">
+							<a href="askNews/news1" style="color: black;">
 							<img src="../img/comps/askellaConst/news1.png" style="width: 100%">
 							<p class="news__p">Маневрируя между рисками: как изменился рынок грузоперевозок в России
 </p>
@@ -270,7 +270,7 @@
 						
 						
 						<div class="news">
-							<a href="askellaConstNews/news2" style="color: black;">
+							<a href="askNews/news2" style="color: black;">
 							<img src="../img/comps/askellaConst/news2.png" style="width: 100%">
 							<p class="news__p">Время трансформаций: Как изменился рынок авиаперевозок в 2022 году
 </p>
@@ -278,7 +278,7 @@
 						</div>
 						
 						<div class="news">
-							<a href="askellaConstNews/news3" style="color: black;">
+							<a href="askNews/news3" style="color: black;">
 							<img src="../img/comps/askellaConst/news3.png" style="width: 100%">
 							<p class="news__p">Спотовые ставки на контейнерные перевозки продолжают снижаться
 </p>
@@ -286,7 +286,7 @@
 						</div>
 						
 						<div class="news">
-							<a href="askellaConstNews/news4" style="color: black;">
+							<a href="askNews/news4" style="color: black;">
 							<img src="../img/comps/askellaConst/news4.png" style="width: 100%">
 							<p class="news__p">Страхование грузов демонстрирует нестабильную динамику
 </p>
@@ -308,8 +308,8 @@
 		</div>
 	</div>
 
-<?php require dirname(__DIR__). DIRECTORY_SEPARATOR . 'footer.php';  ?>
-<?php require dirname(__DIR__). DIRECTORY_SEPARATOR . 'menuAndModal.php';  ?>
+<?php require __DIR__ . DIRECTORY_SEPARATOR . 'footer.php';  ?>
+<?php require __DIR__ . DIRECTORY_SEPARATOR . 'menuAndModal.php';  ?>
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script> 

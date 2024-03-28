@@ -33,7 +33,7 @@
 					<div class="container">
 						<div class="main__column">
 							<div class="flex__column">
-								<p><a class="p__main" href="../main">Главная</a> |<a class="p__main" href="../companies"> Активы</a><span class="span__main" style="opacity: 0.6"> | Грузмастер</span></p>
+								<p><a class="p__main" href="../main">Главная</a> |<a class="p__main" href="../companies"> Компании</a><span class="span__main" style="opacity: 0.6"> | Грузмастер</span></p>
 								<p class="main__title">GM</p>
 								<p class="main__text">Компания расположена в России, основной вид деятельности — оперирование вагонами, перевалка и хранение грузов в порту, международные перевозки.  
 </p>
@@ -65,7 +65,7 @@
 						<div class="flex__column impStrat">
 							<div class="second__title__div">
 								<img src="../img/comps/gruzmaster/strategyLogo.png">
-								<!-- <p class="p__title">Стратегия развития</p> -->
+								<p class="p__title">Стратегия развития</p>
 							</div>
 							<p class="p__text">Развитие транспортно-экспедиторской деятельности, расширение комплекса логистических услуг, благодаря Совершенствованию операционных процессов, Оптимизации логистических маршрутов с целью сокращения сроков поставки грузов клиентов, Наращивании и модернизации парка в управлении Компании, Наращивание клиентской базы, укрепление позиций на рынке перевозок промышленных грузов. 
 </p>
@@ -195,8 +195,8 @@
 		</div>
 	</div>
 
-		<?php require dirname(__DIR__). DIRECTORY_SEPARATOR . 'footer.php';  ?>
-<?php require dirname(__DIR__). DIRECTORY_SEPARATOR . 'menuAndModal.php';  ?>
+		<?php require __DIR__ . DIRECTORY_SEPARATOR . 'footer.php';  ?>
+<?php require __DIR__ . DIRECTORY_SEPARATOR . 'menuAndModal.php';  ?>
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script> 

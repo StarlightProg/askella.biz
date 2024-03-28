@@ -16,7 +16,7 @@
 </head>
 <body>
 		<?php
-			require  dirname(dirname(__DIR__)). DIRECTORY_SEPARATOR . 'headerWhite.php';
+			require dirname(__DIR__). DIRECTORY_SEPARATOR . 'newsElements' . DIRECTORY_SEPARATOR . 'header.php';
 		?>
 
 		<div class="wrapper">

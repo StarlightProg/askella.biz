@@ -34,7 +34,7 @@
 					<div class="container">
 						<div class="main__column">
 							<div class="flex__column">
-								<p><a class="p__main" href="../main">Главная</a> |<a class="p__main" href="../companies"> Активы</a><span class="span__main" style="opacity: 0.6"> | НПК МИР</span></p>
+								<p><a class="p__main" href="../main">Главная</a> |<a class="p__main" href="../companies"> Компании</a><span class="span__main" style="opacity: 0.6"> | НПК МИР</span></p>
 								<p class="main__title">НПК МИР</p>
 								<p class="main__text">Производство продукции для людей в профессиональной и повседневной жизни . Широкий ассортимент средств индивидуальной защиты, специальной одежды,  средств индивидуальной бронезащиты, тактического снаряжения и аммуниции, палаток и спальных мешков.   
 </p>
@@ -67,7 +67,7 @@
 						<div class="flex__column impStrat">
 							<div class="second__title__div">
 								<img src="../img/comps/npkMir/strategyLogo.png">
-								<!-- <p class="p__title">Стратегия развития</p> -->
+								<p class="p__title">Стратегия развития</p>
 							</div>
 							<p class="p__text">Создание широкого ассортимента продукции необходимой для каждого человека, как в профессиональной, так и в повседневной жизни, уделяя внимание деталям и особым пожеланиям заказчика. Находка нестандартных и эффективных методов решения задач, предлагая лучшие варианты в заданных условиях.  Оптимизация каждого этапа цепочки от производства до реализации, выстраивание долгосрочных отношений с поставщиками и завоевание внимания, доверия и симпатии наших клиентов, с которыми работаем.
 
@@ -158,7 +158,7 @@
 				</div>
 			</div>
 
-			<div class="fourth__block" style="margin-top: 40px;">
+			<div class="fourth__block" style="margin-top: 40px;  margin-bottom: 40px;">
 				<div class="container">
 					<p class="p__title">Новости и события</p>
 					<div class="news__div">
@@ -203,19 +203,19 @@
 				</div>
 			</div>
 
-			<div class="fifth__block">
+			<!-- <div class="fifth__block">
 				<div class="container">
 				<p class="p__title">Узнайте больше информации на сайте</p>
 				<a class="a__hover" style="color: white;" href="https://askholding.ru/press-centr/novosti-otrasli"> <p class="p__title2">НПК МИР</p></a>
 				</div>
 				<img class="lineUnder" src="../img/main/lineUnder.svg">
-			</div>
+			</div> -->
 
 		</div>
 	</div>
 
-		<?php require dirname(__DIR__). DIRECTORY_SEPARATOR . 'footer.php';  ?>
-<?php require dirname(__DIR__). DIRECTORY_SEPARATOR . 'menuAndModal.php';  ?>
+		<?php require __DIR__ . DIRECTORY_SEPARATOR . 'footer.php';  ?>
+<?php require __DIR__ . DIRECTORY_SEPARATOR . 'menuAndModal.php';  ?>
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script> 

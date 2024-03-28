@@ -34,7 +34,7 @@
 					<div class="container">
 						<div class="main__column">
 							<div class="flex__column">
-								<p><a class="p__main" href="../main">Главная</a> |<a class="p__main" href="../companies"> Активы</a><span class="span__main" style="opacity: 0.6"> | Аскелла Агро</span></p>
+								<p><a class="p__main" href="../main">Главная</a> |<a class="p__main" href="../companies"> Компании</a><span class="span__main" style="opacity: 0.6"> | Аскелла Агро</span></p>
 								<p class="main__title">Аскелла Агро</p>
 								<p class="main__text">Одна из крупнейших аграрных компаний, объединяет ряд перспективных сельскохозяйственных предприятий, входит в состав ЕПК «АСКЕЛЛА».<br>
 Активы расположены в наиболее благоприятных регионах с точки зрения климата, урожайности и логистики: в западной Сибири Россия и северный Казахстан
@@ -67,7 +67,7 @@
 						<div class="flex__column impStrat">
 							<div class="second__title__div">
 								<img src="../img/comps/askellaAgro/strategyLogo.png">
-								<!-- <p class="p__title">Стратегия развития</p> -->
+								<p class="p__title">Стратегия развития</p>
 							</div>
 							<p class="p__text">Поддержание традиций и  внедрение новых технологий и материалов при выращивании зерновых культур. Расширение активов территории присутствия в благоприятные регионы с точки зрения климата, урожайности и логистики. Реализация инвестиционных проектов с фокусом внимания на детали. Поиск нестандартных и эффективных методов решения задач, предлагая лучшие варианты в заданных условиях. Выход на новые рынки экспорта и долгосрочное сотрудничества с международными клиентами.</p>
 						</div>						
@@ -193,7 +193,7 @@
 			<div class="fifth__block">
 				<div class="container">
 				<p class="p__title">Узнайте больше информации на сайте</p>
-				<a class="a__hover" style="color: white;" href="https://askholding.ru/press-centr/novosti-otrasli"> <p class="p__title2">АСКЕЛЛА АГРО</p></a>
+				<a class="a__hover" style="color: white;" href="https://askella.kz/"> <p class="p__title2">АСКЕЛЛА АГРО</p></a>
 				</div>
 				<img class="lineUnder" src="../img/main/lineUnder.svg">
 			</div>
@@ -201,8 +201,8 @@
 		</div>
 	</div>
 
-<?php require dirname(__DIR__). DIRECTORY_SEPARATOR . 'footer.php';  ?>
-<?php require dirname(__DIR__). DIRECTORY_SEPARATOR . 'menuAndModal.php';  ?>
+<?php require __DIR__ . DIRECTORY_SEPARATOR . 'footer.php';  ?>
+<?php require __DIR__ . DIRECTORY_SEPARATOR . 'menuAndModal.php';  ?>
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script> 

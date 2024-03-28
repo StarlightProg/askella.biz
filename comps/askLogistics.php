@@ -34,7 +34,7 @@
 					<div class="container">
 						<div class="main__column">
 							<div class="flex__column">
-								<p><a class="p__main" href="../main">Главная</a> |<a class="p__main" href="../companies"> Активы</a><span class="span__main" style="opacity: 0.6"> | Askella logistics</span></p>
+								<p><a class="p__main" href="../main">Главная</a> |<a class="p__main" href="../companies"> Компании</a><span class="span__main" style="opacity: 0.6"> | Askella logistics</span></p>
 								<p class="main__title">ASKELLA LOGISTICS</p>
 								<p class="main__text">Организация перевозок грузов в собственных и арендованных крытых вагонах, полувагонах, платформах, цистернах и в другом подвижном составе.</p>
 								<div class="grid__main">
@@ -143,7 +143,7 @@
 				</div>
 			</div>
 
-			<div class="fourth__block" style="margin-top: 40px;">
+			<div class="fourth__block" style="margin-top: 40px; margin-bottom: 40px;">
 				<div class="container">
 					<p class="p__title">Новости и события</p>
 					<div class="news__div">
@@ -186,19 +186,19 @@
 				</div>
 			</div>
 
-			<div class="fifth__block">
+			<!-- <div class="fifth__block">
 				<div class="container">
 				<p class="p__title">Узнайте больше информации на сайте</p>
 				<a class="a__hover" style="color: white;" href="https://askholding.ru/press-centr/novosti-otrasli"> <p class="p__title2">Аскелла логистикс</p></a>
 				</div>
 				<img class="lineUnder" src="../img/main/lineUnder.svg">
-			</div>
+			</div> -->
 
 		</div>
 	</div>
 
-	<?php require dirname(__DIR__). DIRECTORY_SEPARATOR . 'footer.php';  ?>
-<?php require dirname(__DIR__). DIRECTORY_SEPARATOR . 'menuAndModal.php';  ?>
+	<?php require __DIR__ . DIRECTORY_SEPARATOR . 'footer.php';  ?>
+<?php require __DIR__ . DIRECTORY_SEPARATOR . 'menuAndModal.php';  ?>
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script> 
