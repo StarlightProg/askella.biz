@@ -64,7 +64,7 @@
 					<div class="container">
 						<div class="flex__column impStrat">
 							<div class="second__title__div">
-								<img src="../img/comps/askellaConst/strategyLogo.png">
+								<img src="../img/comps/shubarUgol/strategyLogo.png">
 								<p class="p__title">Стратегия развития</p>
 							</div>
 							<p class="p__text">Расширение и увелечение предприятия по добыче угля марки «Д» . С дальнейшим внедрением техники переработки и производством полукокса, смолы, газа полукоксования, синтетического жидкого топлива. Увелечение кол-ва и видов постовляемого угля и использование новых месторождений.

@@ -61,6 +61,26 @@ $(document).ready(() => { // DOM готов к взаимодейтсвию
 				$(".astana").stop().fadeIn(300);
 				$("#askagro__desc").stop().fadeIn(300);
 			}
+			if (chosenMain.is("#ack")) {
+				$(".kzMap").stop().fadeIn(300);
+				$(".astana").stop().fadeIn(300);
+				$("#ack__desc").stop().fadeIn(300);
+			}
+			if (chosenMain.is("#ask")) {
+				$(".kzMap").stop().fadeIn(300);
+				$(".astana").stop().fadeIn(300);
+				$("#ask__desc").stop().fadeIn(300);
+			}
+			if (chosenMain.is("#pkMir")) {
+				$(".kzMap").stop().fadeIn(300);
+				$(".astana").stop().fadeIn(300);
+				$("#pkMir__desc").stop().fadeIn(300);
+			}
+			if (chosenMain.is("#shubarCoal")) {
+				$(".kzMap").stop().fadeIn(300);
+				$(".astana").stop().fadeIn(300);
+				$("#shubarCoal__desc").stop().fadeIn(300);
+			}
 			if (chosenMain.is("#sugar")) {
 				$(".kzMap").stop().fadeIn(300);
 				$(".astana").stop().fadeIn(300);

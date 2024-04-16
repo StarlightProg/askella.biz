@@ -103,6 +103,46 @@
 											<p class="mini__description__title">О компании</p>
 											<p class="description__text">Казахстанская компания, основным видом деятельности которой является продажа продукции и контроль за деятельностью заводов-производителей свекловичного сахара.</p>
 										</div>
+										<div class="company__description" id="ack__desc">
+											
+											<p class="description__title">АСК</p>
+											<p class="mini__description__title">Год основания</p>
+											<p class="description__text">2021</p>
+											<p class="mini__description__title">Казахстан</p>
+											<p class="description__text">Астана</p>
+											<p class="mini__description__title">О компании</p>
+											<p class="description__text">Компания расположена в Казахстане, основной вид деятельности — комплексный аутсорсинг, снабжение предприятий, торговые операции, аудит и аккредитация, сюрвейерские услуги.</p>
+										</div>
+										<div class="company__description" id="ask__desc">
+											
+											<p class="description__title">АSK</p>
+											<p class="mini__description__title">Год основания</p>
+											<p class="description__text">2021</p>
+											<p class="mini__description__title">Казахстан</p>
+											<p class="description__text">Астана</p>
+											<p class="mini__description__title">О компании</p>
+											<p class="description__text">Компания расположена в Казахстане, основной вид деятельности компании — производство и продажа строительных материалов, импорт/экспорт строительных материалов.</p>
+										</div>
+										<div class="company__description" id="pkMir__desc">
+											
+											<p class="description__title">ПК МИР</p>
+											<p class="mini__description__title">Год основания</p>
+											<p class="description__text">2020</p>
+											<p class="mini__description__title">Казахстан</p>
+											<p class="description__text">Астана</p>
+											<p class="mini__description__title">О компании</p>
+											<p class="description__text">Компания расположена в Казахстане, основной вид деятельности проектной организации - испытание и тестирование продуктов концерна</p>
+										</div>
+										<div class="company__description" id="shubarCoal__desc">
+											
+											<p class="description__title">ШУБАР УГОЛЬ</p>
+											<p class="mini__description__title">Год основания</p>
+											<p class="description__text">2020</p>
+											<p class="mini__description__title">Казахстан</p>
+											<p class="description__text">Астана</p>
+											<p class="mini__description__title">О компании</p>
+											<p class="description__text">Компания расположена в Казахстане, основной вид деятельности компании — доставка и перевозка угля из месторождений Шубаркуля, Карагандинской области Центрального Казахстана по странам ЕС, СНГ и Китаю</p>
+										</div>
 										<div class="company__description" id="nurkaz__desc">
 											
 											<p class="description__title">NURKAZPROM</p>
@@ -147,7 +187,7 @@
 											<p class="mini__description__title">О компании</p>
 											<p class="description__text">???</p>
 										</div>
-										<div class="company__description" id="npkmir__desc">
+										<!-- <div class="company__description" id="npkmir__desc">
 											
 											<p class="description__title">НПК МИР</p>
 											<p class="mini__description__title">Год основания</p>
@@ -158,7 +198,7 @@
 												
 											<p class="mini__description__title">О компании</p>
 											<p class="description__text">Производство продукции для людей в профессиональной и повседневной жизни . Широкий ассортимент дорожных, спортивных сумок, рюкзаков, школьных ранцев, деловых кожаных портфелей и папок, а также большой выбор школьной и спортивной формы, одежды специального назначения и средств индивидуальной защиты.</p>
-										</div>
+										</div> -->
 										<div class="company__description" id="askport__desc">
 											
 											<p class="description__title">ASK GLOBAL PORT</p>
@@ -217,8 +257,11 @@
 										<div class="div__about__text4" id="sugar">
 											<p class="f12">Евразия сахар</p>
 										</div>
-										<div class="div__about__text4" style="display: none;">
-											<p class="f12">Евразия сахар</p>
+										<div class="div__about__text4" id="ack">
+											<p class="f12">ACK</p>
+										</div>
+										<div class="div__about__text4" id="ask">
+											<p class="f12">ASK</p>
 										</div>
 									</div>
 
@@ -234,15 +277,18 @@
 										<div class="div__about__text4" id="pteltd">
 											<p class="f12">Askella Invest</p>
 										</div>
-										<div class="div__about__text4" id="npkmir">
+										<!-- <div class="div__about__text4" id="npkmir">
 											<p class="f12">НПК МИР</p>
-										</div>
+										</div> -->
 										<div class="div__about__text4" id="askport">
 											<p class="f12">ASK GLOBAL PORT</p>
 										</div>
-										<!-- <div class="div__about__text4" id="askconst">
-											<p class="f12">ASKELLA CONSTRUCTION</p>
-										</div> -->
+										<div class="div__about__text4" id="pkMir">
+											<p class="f12">ПК МИР</p>
+										</div>
+										<div class="div__about__text4" id="shubarCoal">
+											<p class="f12">ШУБАР УГОЛЬ</p>
+										</div>
 									</div>
 									
 								</div>
@@ -411,7 +457,7 @@
 									<p class="actives__statText__p">Сотруднечеств с портами</p>
 								</div>
 								</a>	
-								<a class="a__black log" href="comps/npkMir">
+								<!-- <a class="a__black log" href="comps/npkMir">
 								<div class="activess ">
 									<p class="actives__type__p">ЛОГИСТИКА</p>
 									<p class="actives__title__p">НПК МИР</p>
@@ -422,7 +468,7 @@
 									<p class="actives__stat__p">40+</p>
 									<p class="actives__statText__p">Разработанных моделей</p>
 								</div>
-								</a>
+								</a> -->
 								
 
 								<!-- <a class="a__black log" href="comps/askGlobalPort">
@@ -483,6 +529,58 @@
 									<p class="actives__statText__p">Взаимодействий с портами</p>
 									<p class="actives__stat__p">20+</p>
 									<p class="actives__statText__p">Судов под управлением</p>
+								</div>
+								</a>
+
+								<a class="a__black log" href="comps/ack">
+								<div class="activess ">
+									<p class="actives__type__p">ЛОГИСТИКА</p>
+									<p class="actives__title__p">ACK</p>
+									<p class="actives__stat__p">2021</p>
+									<p class="actives__statText__p">Год основания компании</p>
+									<p class="actives__stat__p">10+</p>
+									<p class="actives__statText__p">Оказываемых услуги</p>
+									<p class="actives__stat__p">5</p>
+									<p class="actives__statText__p">Стран</p>
+								</div>
+								</a>
+
+								<a class="a__black log" href="comps/ask">
+								<div class="activess ">
+									<p class="actives__type__p">ЛОГИСТИКА</p>
+									<p class="actives__title__p">ASK</p>
+									<p class="actives__stat__p">2021</p>
+									<p class="actives__statText__p">Год основания компании</p>
+									<p class="actives__stat__p">10+</p>
+									<p class="actives__statText__p">Оказываемых услуги</p>
+									<p class="actives__stat__p">5</p>
+									<p class="actives__statText__p">Стран</p>
+								</div>
+								</a>
+
+								<a class="a__black log" href="comps/pkMir">
+								<div class="activess ">
+									<p class="actives__type__p">ЛОГИСТИКА</p>
+									<p class="actives__title__p">ПК МИР</p>
+									<p class="actives__stat__p">2020</p>
+									<p class="actives__statText__p">Год основания компании</p>
+									<p class="actives__stat__p">50+</p>
+									<p class="actives__statText__p">Сотрудников</p>
+									<p class="actives__stat__p">5+</p>
+									<p class="actives__statText__p">Патентов</p>
+								</div>
+								</a>
+
+								<a class="a__black log" href="comps/shubarCoal">
+								<div class="activess ">
+									<p class="actives__type__p">ЛОГИСТИКА</p>
+									<p class="actives__title__p">ШУБАР УГОЛЬ</p>
+									<p class="actives__stat__p">2020</p>
+									<p class="actives__statText__p">Год основания компании</p>
+									<p class="actives__stat__p">5 тонн</p>
+									<p class="actives__statText__p">Угля перевезено</p>
+									<p class="actives__stat__p">5</p>
+									<p class="actives__statText__p">Стран экспорта</p>
 								</div>
 								</a>
 
